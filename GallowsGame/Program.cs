@@ -9,6 +9,7 @@ namespace GallowsGame
             bool game = true;
             while (game)
             {
+                game = false;
                 Color.ColorChange(ConsoleColor.Green);
                 Console.WriteLine("Нажмите на любую кнопку, чтобы начать игру...");
                 Console.ReadKey();
