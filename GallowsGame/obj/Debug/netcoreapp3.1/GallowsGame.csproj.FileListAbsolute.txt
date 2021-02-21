@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.AssemblyInfo.cs
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GallowsGame\GallowsGame\bin\Debug\netcoreapp3.1\GallowsGame.exe
+C:\Users\User\source\repos\GallowsGame\GallowsGame\bin\Debug\netcoreapp3.1\GallowsGame.deps.json
+C:\Users\User\source\repos\GallowsGame\GallowsGame\bin\Debug\netcoreapp3.1\GallowsGame.runtimeconfig.json
+C:\Users\User\source\repos\GallowsGame\GallowsGame\bin\Debug\netcoreapp3.1\GallowsGame.runtimeconfig.dev.json
+C:\Users\User\source\repos\GallowsGame\GallowsGame\bin\Debug\netcoreapp3.1\GallowsGame.dll
+C:\Users\User\source\repos\GallowsGame\GallowsGame\bin\Debug\netcoreapp3.1\GallowsGame.pdb
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.dll
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.pdb
+C:\Users\User\source\repos\GallowsGame\GallowsGame\obj\Debug\netcoreapp3.1\GallowsGame.genruntimeconfig.cache
